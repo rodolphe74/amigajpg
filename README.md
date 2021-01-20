@@ -22,7 +22,10 @@ The program is able to :
 ![HAM without dithering](/images/ham-no-dither.jpg)
 
 ### HAM with size 8 ordered matrix dithering : ./amigajpg -h -m8 -i images/264750.jpg
-![HAM without dithering](/images/ham-no-dither.jpg)
+![HAM ordered dithering](/images/ham-no-dither.jpg)
 
 ### HAM with error diffusion floyd steinberg dithering : ./amigajpg -h -f -i images/264750.jpg
-![HAM without dithering](/images/ham-dither-floyd.jpg)
+![HAM fs dithering](/images/ham-dither-floyd.jpg)
+
+### 32 colors size 4 ordered matrix dithering : ./amigajpg -c 32 -m4 -i images/264750.jpg
+![32 colors ordered dithering](/images/32-colors-4.jpg)
