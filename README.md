@@ -17,3 +17,6 @@ The program is able to :
 
 ### original
 ![Original](/images/original.jpg)
+
+## ./amigajpg -h -i images/264750.jpg
+![HAM without dithering](/images/ham-no-dither.jpg)
