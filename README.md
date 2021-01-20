@@ -5,4 +5,4 @@ Constraints are:
 * 4096 colors palette (16 tints per component).
 * 320x256 pixels screen.
 * 2, 4, 8, 16, 32 simultaneous colors over 4096,
-* or HAM mode: possibly display full palette with proximity constraints.
+* or HAM-6 mode: possibly display full palette with proximity constraints.
