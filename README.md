@@ -1,4 +1,5 @@
 # amigajpg
+## description
 Fed up with high resolutions and true colors pictures ?
 Let's go back in the middle of the eighties and display jpg as an Amiga would do.
 Constraints are:
@@ -11,3 +12,5 @@ The program is able to :
 * Display a jpg inside a 640x512 pixels SDL window (pixels are doubled).
 * Find an optimal palette ([use of median-cut algorithm](https://en.wikipedia.org/wiki/Median_cut)).
 * Render color tones with ordered or floyd steinberg dither.
+
+## examples
