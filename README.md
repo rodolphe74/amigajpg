@@ -1,5 +1,5 @@
 # amigajpg
-Fed up with high resolutions and true colors jpg ?
+Fed up with high resolutions and true colors pictures ?
 Let's go back in the middle of the eighties and display jpg as an Amiga would do.
 Constraints are:
 * 4096 colors palette (16 tints per component).
