@@ -14,3 +14,6 @@ The program is able to :
 * Render color tones with ordered or floyd steinberg dither.
 
 ## examples
+
+### original
+![Original](/images/original.jpg)
