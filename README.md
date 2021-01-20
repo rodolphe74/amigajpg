@@ -12,6 +12,7 @@ The program is able to :
 * Display a jpg inside a 640x512 pixels SDL window (pixels are doubled).
 * Find an optimal palette ([use of median-cut algorithm](https://en.wikipedia.org/wiki/Median_cut)).
 * Render color tones with ordered or floyd steinberg dither.
+* Resize original image to 320x256 ([use of bilinear interpolation](https://en.wikipedia.org/wiki/Bilinear_interpolation))
 
 ## examples
 
