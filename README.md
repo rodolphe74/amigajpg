@@ -31,8 +31,14 @@ The program is able to :
 ![32 colors ordered dithering](/images/32-colors-4.jpg)
 
 ## command line arguments
-* -i -> input image filename
-* -c [2,4,8,16,32] -> number of simultaneous colors
-* -h -> HAM mode
-* -m [2,3,4,8] -> size of the ordered dither matrix
-* -f -> Floyd Steinber dithering
+* -i : input image filename
+* -c [2,4,8,16,32] : number of simultaneous colors
+* -h : HAM mode
+* -m [2,3,4,8] : size of the ordered dither matrix
+* -f : Floyd Steinber dithering
+
+## compilation instruction
+The code should easely compile under linux if:
+* Package SDL2-devel is installed.
+* Packages make and gcc are installed
+The source of libjpeg is under jpeg-6b folder. The program is linked against jpeg-6b/libjpeg.a.
