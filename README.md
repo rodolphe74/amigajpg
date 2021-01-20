@@ -29,3 +29,10 @@ The program is able to :
 
 ### 32 colors size 4 ordered matrix dithering : ./amigajpg -c 32 -m4 -i images/264750.jpg
 ![32 colors ordered dithering](/images/32-colors-4.jpg)
+
+## command line arguments
+* -i -> input image filename
+* -c [2,4,8,16,32] -> number of simultaneous colors
+* -h -> HAM mode
+* -m [2,3,4,8] -> size of the ordered dither matrix
+* -f -> Floyd Steinber dithering
