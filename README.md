@@ -1,4 +1,4 @@
-#amigajpg
+# amigajpg
 Fed up with high resolutions and true colors jpg ?
 Let's go back in the middle of the eighties and display jpg as an Amiga would do.
 Constraints are:
