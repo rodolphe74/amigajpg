@@ -36,6 +36,7 @@ The program is able to :
 * -h : HAM mode
 * -m [2,3,4,8] : size of the ordered dither matrix
 * -f : Floyd Steinber dithering
+* -p : Display optimal palette
 
 ## compilation instruction
 The code should easely compile under linux (just make) if:
