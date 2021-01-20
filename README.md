@@ -6,3 +6,8 @@ Constraints are:
 * 320x256 pixels screen.
 * 2, 4, 8, 16, 32 simultaneous colors over 4096,
 * or HAM-6 mode: possibly display full palette with proximity constraints ([Hold-And-Modify](https://en.wikipedia.org/wiki/Hold-And-Modify)).
+
+The program is able to :
+* Display a jpg inside a SDL window.
+* Find an optimal palette (use of median-cut algorithm).
+* Render color tones with ordered or floyd steinberg dither.
