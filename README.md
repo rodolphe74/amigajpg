@@ -22,7 +22,7 @@ The program is able to :
 ![HAM without dithering](/images/ham-no-dither.jpg)
 
 ### HAM with size 8 ordered matrix dithering : ./amigajpg -h -m8 -i images/264750.jpg
-![HAM ordered dithering](/images/ham-no-dither.jpg)
+![HAM ordered dithering](/images/ham-dither-8.jpg)
 
 ### HAM with error diffusion floyd steinberg dithering : ./amigajpg -h -f -i images/264750.jpg
 ![HAM fs dithering](/images/ham-dither-floyd.jpg)
