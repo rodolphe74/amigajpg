@@ -9,5 +9,5 @@ Constraints are:
 
 The program is able to :
 * Display a jpg inside a 640x512 pixels SDL window (pixels are doubled).
-* Find an optimal palette (use of median-cut algorithm).
+* Find an optimal palette ([use of median-cut algorithm](https://en.wikipedia.org/wiki/Hold-And-Modify)).
 * Render color tones with ordered or floyd steinberg dither.
