@@ -8,6 +8,6 @@ Constraints are:
 * or HAM-6 mode: possibly display full palette with proximity constraints ([Hold-And-Modify](https://en.wikipedia.org/wiki/Hold-And-Modify)).
 
 The program is able to :
-* Display a jpg inside a SDL window.
+* Display a jpg inside a 640x512 pixels SDL window (pixels are doubled).
 * Find an optimal palette (use of median-cut algorithm).
 * Render color tones with ordered or floyd steinberg dither.
